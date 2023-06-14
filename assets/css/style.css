@@ -9,7 +9,8 @@ main {
     background-color: #d9dcd6;
 }
 
-/* Converted to Element Selector */
+/* Converted to Element Selector 
+   This controls the fonts and colors of the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,11 +58,14 @@ p {
 /* Converted from class selector to ID
    Moved image to HTML to add an alt text message */
 #hero {
-    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
+}
+
+.hero-wraper {
+    width: 100rem;
 }
 
 .float-left {
@@ -133,7 +137,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* updated headding size from h2 to h4 */
+.footer h4 {
     font-size: 20px;
 }
