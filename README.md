@@ -25,3 +25,7 @@ Please refer to the license in the repo.
 ## Screenshots
 
 ![challenge01](https://github.com/tmorgan-dev/Horiseon-HTML-Refactor/assets/132379127/aa81a368-e1fa-46d3-9d7a-ef4eb2fd81e7)
+
+## Link to deployed app
+
+https://tmorgan-dev.github.io/Horiseon-HTML-Refactor/
